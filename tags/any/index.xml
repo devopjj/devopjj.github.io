@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>any on 運維的最後一哩路</title>
+    <link>https://devopjj.github.io/tags/any/</link>
+    <description>Recent content in any on 運維的最後一哩路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 23 Feb 2020 14:49:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://devopjj.github.io/tags/any/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post3</title>
+      <link>https://devopjj.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 23 Feb 2020 14:49:53 +0800</pubDate>
+      
+      <guid>https://devopjj.github.io/posts/my-first-post/</guid>
+      <description>第一篇文章-3 $ 測試 meta change add FRONTMATTER: tags: [any, comma, separated, labels] -&amp;gt;OK format: markdown -&amp;gt;OK published: true -&amp;gt;OK add &amp;lt;!&amp;ndash; in header sec test result:?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>標籤2 on 運維的最後一哩路</title>
+    <link>https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A42/</link>
+    <description>Recent content in 標籤2 on 運維的最後一哩路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 30 Apr 2020 12:42:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A42/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>測試的文章標題1-update</title>
+      <link>https://devopjj.github.io/posts/slug-test-for-the-second-post/</link>
+      <pubDate>Thu, 30 Apr 2020 12:42:00 +0800</pubDate>
+      
+      <guid>https://devopjj.github.io/posts/slug-test-for-the-second-post/</guid>
+      <description>test pandoc update 測試 TOML 格式
+title = &amp;#34;測試的文章標題1&amp;#34; draft = false published = true description = &amp;#34;只是文章的描述內容.&amp;#34; publishdate = 2018-04-30T12:42:00+05:30 date = 2020-04-30T12:42:00+05:30 lastmod = 2020-04-30T12:47:37+05:30 categories = [ &amp;#34;category1&amp;#34;, &amp;#34;Category2&amp;#34;,] slug = &amp;#34;slug-test-for-the-second-post&amp;#34; tags = [ &amp;#34;標籤1&amp;#34;, &amp;#34;標籤2&amp;#34;] id = &amp;#34;&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>
