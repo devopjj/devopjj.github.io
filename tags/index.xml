@@ -1,69 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 運維的最後一哩路</title>
-    <link>https://devopjj.github.io/tags/</link>
-    <description>Recent content in Tags on 運維的最後一哩路</description>
+    <title>Tags on 运维梳理笔记烂笔头</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on 运维梳理笔记烂笔头</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 30 Apr 2020 12:42:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://devopjj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>標籤1</title>
-      <link>https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A41/</link>
-      <pubDate>Thu, 30 Apr 2020 12:42:00 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A41/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>標籤2</title>
-      <link>https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A42/</link>
-      <pubDate>Thu, 30 Apr 2020 12:42:00 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/%E6%A8%99%E7%B1%A42/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>any</title>
-      <link>https://devopjj.github.io/tags/any/</link>
-      <pubDate>Sun, 23 Feb 2020 14:49:53 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/any/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comma</title>
-      <link>https://devopjj.github.io/tags/comma/</link>
-      <pubDate>Sun, 23 Feb 2020 14:49:53 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/comma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>labels</title>
-      <link>https://devopjj.github.io/tags/labels/</link>
-      <pubDate>Sun, 23 Feb 2020 14:49:53 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/labels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>separated</title>
-      <link>https://devopjj.github.io/tags/separated/</link>
-      <pubDate>Sun, 23 Feb 2020 14:49:53 +0800</pubDate>
-      
-      <guid>https://devopjj.github.io/tags/separated/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <copyright>2022 DevopJJ</copyright><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
