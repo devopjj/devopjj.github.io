@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 运维梳理笔记烂笔头</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on 运维梳理笔记烂笔头</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2022 DevopJJ</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用 Hugo 建立一個 Blog</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Header2 中文
 ls systemctl status nginx </description>
     </item>
